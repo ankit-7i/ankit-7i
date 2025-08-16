@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://x.com/ankitrout07?t=9mdd5atebousyqwyj5grzg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/ankitrout07?t=9mdd5atebousyqwyj5grzg&s=09" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ankit-rout-a53866295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-rout-a53866295" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ankitrout07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ankit-rout-a53866295" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/ankit_rout_7_?igsh=bwxtmtdny3b5aghx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ankit_rout_7_?igsh=bwxtmtdny3b5aghx" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/ankitrout07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ankitrout07/" height="30" width="40" /></a>
 </p>
