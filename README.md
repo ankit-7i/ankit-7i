@@ -8,9 +8,9 @@
 
 - 📫 How to reach me **ankitrout513151979@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jVcAZhgZH4PyquTb-k-Z1IZOAmGEurxp/view?usp=drivesdk](https://drive.google.com/file/d/1jVcAZhgZH4PyquTb-k-Z1IZOAmGEurxp/view?usp=drivesdk)
+- 📄 Know about my experiences [My_Resume](https://drive.google.com/file/d/1OHrlIdQi0U9mMBEPoHO0f5_zPlgppWjL/view?usp=drive_link)
 
-- ⚡ Fun fact **I am a fresher dev**
+- ⚡ fact **I am a fresher developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
