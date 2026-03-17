@@ -93,7 +93,13 @@ public class AnkitRout implements Engineer {
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ankit-7i&theme=onestar&no-frame=true&no-bg=true&margin-w=4&column=3)](https://github.com/ankit-7i)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-7i&layout=compact&theme=tokyonight&title_color=00fff2&text_color=c084fc&border_color=1a0533&bg_color=0a0a0f&langs_count=6" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/MCA-KIIT%20University-00fff2?style=for-the-badge&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/CGPA-8.23-c084fc?style=for-the-badge&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Open%20To-Work-22c55e?style=for-the-badge&labelColor=0a0a0f"/>
 
 </td>
 </tr>
