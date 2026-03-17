@@ -290,7 +290,45 @@ public class AnkitRout implements Engineer {
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/ankit-7i/ankit-7i/main/neon_race.svg" alt="Neon Grand Prix" width="100%"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎮 Play the Game
+
+[![Play NEON F1](https://img.shields.io/badge/▶%20PLAY%20NEON%20F1-GRAND%20PRIX-00fff2?style=for-the-badge&labelColor=0a0a0f&color=00fff2)](https://ankit-7i.github.io/ankit-7i/f1_game.html)
+
+**Download → Open in Chrome → Race!**
+
+`W/↑` Gas &nbsp; `S/↓` Brake &nbsp; `A/←` Left &nbsp; `D/→` Right
+
+`SHIFT` Boost &nbsp; `F` DRS &nbsp; `R` Reset
+
+</td>
+<td align="center" width="50%">
+
+```
+╔══════════════════════════════╗
+║   🏎️  NEON F1 GRAND PRIX    ║
+╠══════════════════════════════╣
+║  CARS      →   6 (1P + 5AI) ║
+║  LAPS      →   5             ║
+║  CIRCUIT   →   Monaco Style  ║
+║  TOP SPEED →   360 KM/H      ║
+╠══════════════════════════════╣
+║  BOOST     →   SHIFT         ║
+║  DRS       →   F (straights) ║
+║  RESET     →   R             ║
+╠══════════════════════════════╣
+║  RIVALS: FERRARI · RED BULL  ║
+║          MCLAREN · ALPINE    ║
+║          HAAS                ║
+╚══════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
 
 <br/>
 
